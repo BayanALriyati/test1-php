@@ -136,3 +136,19 @@ Expected Result: array (4) {[0] => string (30) "Twinkle, " [1] => string (26) " 
  echo '--------------------------------------------------------------------'
 ?>
 
+<!-- -----------------TASK 12----------------- -->
+
+<?php
+echo "<br>";
+// $original_string = 'The brown fox';
+// $string_to_insert ='quick';
+// $insert_pos = 4;
+// $new_string = substr_replace($original_string, $string_to_insert.' ', $insert_pos, 0);
+// echo $new_string."\n";
+
+echo "<br>";
+echo '--------------------------------------------------------------------'
+?>
+
+<!-- -----------------TASK 13----------------- -->
+

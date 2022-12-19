@@ -52,8 +52,8 @@ foreach ($strings as $testcase) {
 echo "<br>";
     $x=12;  
     $y=10; 
-    echo " x: $x </br>";  
-    echo " y: $y </br>";  
+    echo " x: $y </br>";  
+    echo " y: $x </br>";  
     echo "<br>";
     echo "------------------------------";
     ?>    
